@@ -7,3 +7,9 @@
 ## Mis repositorios
 
 [Mi repositorio de prueba] (https://github.com/andrezolano/MiPrimerRepositorio) Este es mi primer repositorio.
+
+# Mis estadísticas en Github
+[![Hua's github stats] (https://github-readme-stats.vercel.app/api?username=andrezolano&show_icons=true&theme=dark)] (https://github.com/andrezolano/github-readme-stats)
+
+## Contact:
+[![gmail badge] (https:/img.shields.io/badge/-andrezolano.ve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrezolano.ve@gmail.com)] (mailto:andrezolano.ve@gmail.com)
