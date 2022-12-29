@@ -12,4 +12,4 @@
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=andrezolano&show_icons=true&theme=dark)](https://github.com/andrezolano/github-readme-stats)
 
 ## Contact:
-[![gmail badge](https:/img.shields.io/badge/-andrezolano.ve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrezolano.ve@gmail.com)](mailto:andrezolano.ve@gmail.com)
+[![Gmail Badge](https:/img.shields.io/badge/-andrezolano.ve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrezolano.ve@gmail.com)](mailto:andrezolano.ve@gmail.com)
