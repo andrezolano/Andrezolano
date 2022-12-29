@@ -13,3 +13,4 @@
 
 ## Contact:
 [![Gmail Badge](https:/img.shields.io/badge/-andrezolano.ve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrezolano.ve@gmail.com)](mailto:andrezolano.ve@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
